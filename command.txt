@@ -1,3 +1,4 @@
 git clone
 git remote -v
 git remote set-url --push origin 
+git pull origin main
